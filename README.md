@@ -1,16 +1,79 @@
-## Hi there 👋
+# Jonathan Scholtes
 
-<!--
-**jonathanscholtes/jonathanscholtes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior AI Engineer / Architect @ Microsoft  
+Designing agentic, event-driven AI systems that integrate tools, data, and workflows in real-world environments
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Start Here
+
+These systems explore how agents move from isolated tasks to coordinated, real-world workflows.
+
+- **[ITSM Multi-Agent System (Microsoft Foundry)](https://github.com/jonathanscholtes/Azure-AI-Foundry-ITSM)**  
+  → IT service management workflow implemented with agents and structured orchestration  
+  → Focuses on ticket processing, classification, and routing across workflows  
+
+- **[Contract Risk Analysis (MCP + Foundry)](https://github.com/jonathanscholtes/contract-risk-mcp-foundry)**  
+  → Contract analysis system using MCP for tool-based evaluation and data access  
+  → Demonstrates structured, repeatable, and auditable analysis workflows  
+
+- **[BrandSense (Multi-Agent Brand Intelligence)](https://github.com/jonathanscholtes/Azure-AI-Foundry-BrandSense)**  
+  → Brand analysis pipeline combining retrieval, scoring, and evaluation  
+  → Composes multiple steps into a unified evaluation workflow  
+
+- **[Agents Audit System](https://github.com/jonathanscholtes/Azure-AI-Foundry-Agents-Audit)**  
+  → Observability and evaluation framework for agent/tool interactions  
+  → Tracks execution flow, decisions, and tool usage across workflows  
+
+---
+
+## 🧠 Agentic Systems
+
+Production-oriented systems focused on:
+
+- Orchestration of tools and workflows  
+- MCP-based execution and control layers  
+- Retrieval + reasoning across data sources  
+- Event-driven system design  
+
+---
+
+## Foundations
+
+Core components and architectural patterns used across agentic systems.
+
+- **[Semantic Kernel RAG System](https://github.com/jonathanscholtes/Azure-AI-Foundry-Semantic-Kernel-RAG)**  
+  → Early RAG + orchestration pattern using Semantic Kernel and Azure services  
+  → Foundation for later agent-based system design  
+
+- **[Full-Stack RAG System](https://github.com/jonathanscholtes/LangChain-RAG-Pattern-with-React-FastAPI-and-Cosmos-DB-Vector-Store)**  
+  → Retrieval + generation with React, FastAPI, and Cosmos DB  
+
+- **[Large Document Summarization (Durable Functions)](https://github.com/jonathanscholtes/Azure-AI-Large-Document-Summarization)**  
+  → Distributed fan-out / fan-in processing for large-scale workflows  
+
+- **[Azure AI Foundry Deployment](https://github.com/jonathanscholtes/Azure-AI-Foundry-Deployment)**  
+  → Enterprise-ready infrastructure (networking, security, IaC)
+
+- **[MCP YARP Gateway](https://github.com/jonathanscholtes/mcp-yarp-gateway)**  
+  → Gateway layer for routing and controlling tool access in agentic systems  
+  → Enables structured interaction between agents and external tools  
+
+
+---
+
+
+## Learn More
+
+- Architecture + deep dives: https://stochasticcoder.com  
+- Connect with me: https://linkedin.com/in/jonathanscholtes/  
+
+---
+
+## 📌 Notes
+
+All projects focus on:
+
+- Real-world applicability  
+- System design over isolated prompts  
+- Production-oriented architectures  
