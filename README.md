@@ -7,23 +7,25 @@ Designing agentic, event-driven AI systems that integrate tools, data, and workf
 
 ## Start Here
 
-These systems explore how agents move from isolated tasks to coordinated, real-world workflows.
+These are the best entry points to understand how agentic systems operate in real-world environments.
 
 - **[ITSM Multi-Agent System (Microsoft Foundry)](https://github.com/jonathanscholtes/Azure-AI-Foundry-ITSM)**  
-  → IT service management workflow implemented with agents and structured orchestration  
-  → Focuses on ticket processing, classification, and routing across workflows  
+  → IT service management implemented with agents and structured orchestration  
+  → Covers ticket classification, routing, and lifecycle handling  
 
 - **[Contract Risk Analysis (MCP + Foundry)](https://github.com/jonathanscholtes/contract-risk-mcp-foundry)**  
-  → Contract analysis system using MCP for tool-based evaluation and data access  
-  → Demonstrates structured, repeatable, and auditable analysis workflows  
+  → Contract analysis using MCP for tool-based evaluation and data access  
+  → Enables structured, repeatable, and auditable analysis workflows  
 
 - **[BrandSense (Multi-Agent Brand Intelligence)](https://github.com/jonathanscholtes/Azure-AI-Foundry-BrandSense)**  
-  → Brand analysis pipeline combining retrieval, scoring, and evaluation  
-  → Composes multiple steps into a unified evaluation workflow  
+  → Brand analysis pipeline combining retrieval, scoring, and validation  
+  → Applies agent-based workflows to business evaluation scenarios  
 
 - **[Agents Audit System](https://github.com/jonathanscholtes/Azure-AI-Foundry-Agents-Audit)**  
   → Observability and evaluation framework for agent/tool interactions  
   → Tracks execution flow, decisions, and tool usage across workflows  
+
+These systems move beyond prompt-response interactions into structured, tool-driven execution.
 
 ---
 
@@ -31,9 +33,9 @@ These systems explore how agents move from isolated tasks to coordinated, real-w
 
 Production-oriented systems focused on:
 
-- Orchestration of tools and workflows  
+- Orchestrating tools and workflows  
 - MCP-based execution and control layers  
-- Retrieval + reasoning across data sources  
+- Retrieval and reasoning across data sources  
 - Event-driven system design  
 
 ---
@@ -59,9 +61,7 @@ Core components and architectural patterns used across agentic systems.
   → Gateway layer for routing and controlling tool access in agentic systems  
   → Enables structured interaction between agents and external tools  
 
-
 ---
-
 
 ## Learn More
 
