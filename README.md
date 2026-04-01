@@ -3,9 +3,6 @@
 Senior AI Engineer / Architect @ Microsoft  
 Designing agentic, event-driven AI systems that integrate tools, data, and workflows in real-world environments
 
-<p align="center">
-  <img src="https://stochasticcoder.com/wp-content/uploads/2026/01/designer-1.png?w=1024" width="600"/>
-</p>
 ---
 
 ## Start Here
