@@ -1,7 +1,8 @@
 # Jonathan Scholtes
 
-Senior AI Engineer / Architect @ Microsoft  
-**Designing enterprise grade, event driven AI systems that integrate autonomous agents, tools, and self healing workflows into production environments.**
+AI Architect & Engineer @ Microsoft
+
+**Building production AI systems with Microsoft Foundry, Microsoft Fabric, machine learning, and agentic AI.**
 
 [stochasticcoder.com](https://stochasticcoder.com) • [linkedin.com/in/jonathanscholtes/](https://linkedin.com/in/jonathanscholtes/)
 
