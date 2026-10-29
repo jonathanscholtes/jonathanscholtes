@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
-  <img src="assets/logo-light.png" alt="StochasticCoder logo" width="24" align="left">
+  <img src="assets/logo-light.png" alt="StochasticCoder logo" width="72" align="left">
 </picture>
 
 # Jonathan Scholtes
