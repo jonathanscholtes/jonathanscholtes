@@ -17,6 +17,7 @@ jobs:
         with:
           feed_list: "https://stochasticcoder.com/feed/"
           max_post_count: 5
-          template: "$newline- [$title]($url) · $date"
+          template: "<li><a href=\"$url\">$title</a> · $date</li>$newline"
           date_format: "mmm yyyy"
           commit_message: "Update latest blog posts"
+
