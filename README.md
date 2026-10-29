@@ -48,7 +48,11 @@ Production patterns that move past prompt and response into tool-driven executio
 ## 📰 Latest Posts
 
 <ul>
-<!-- BLOG-POST-LIST:START --><li><a href="https://stochasticcoder.com/2026/10/27/between-rules-and-reasoning-microsoft-decision-1-in-a-document-processing-pipeline/">Microsoft-Decision-1 in a Document Processing Pipeline</a> · Oct 2026</li>
+<!-- BLOG-POST-LIST:START -->- [Microsoft-Decision-1 in a Document Processing Pipeline](https://stochasticcoder.com/2026/10/27/between-rules-and-reasoning-microsoft-decision-1-in-a-document-processing-pipeline/) · Oct 2026 
+- [Decoupling Data and Logic: Using Fabric Data Agents and Foundry to Automate Presentation Generation](https://stochasticcoder.com/2026/06/22/decoupling-data-and-logic-using-fabric-data-agents-and-foundry-to-automate-presentation-generation/) · Jun 2026 
+- [Beyond the Alert: Building Self-Healing Pipelines with Azure SRE Agent and GitHub Copilot](https://stochasticcoder.com/2026/04/29/beyond-the-alert-building-self-healing-pipelines-with-azure-sre-agent-and-github-copilot/) · Apr 2026 
+- [Designing Sequential Multi-Agent Pipelines with Microsoft Foundry](https://stochasticcoder.com/2026/03/12/designing-sequential-multi-agent-pipelines-with-microsoft-foundry/) · Mar 2026 
+- [Optimizing AI Agents for Scale: Triage, Throttle Control, and Model Right-Sizing](https://stochasticcoder.com/2026/02/24/optimizing-ai-agents-for-scale-triage-throttle-control-and-model-right-sizing/) · Feb 2026 
 <!-- BLOG-POST-LIST:END -->
 </ul>
 
